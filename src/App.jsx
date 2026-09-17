@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Nav from './Components/nav'
+import Nav from './Components/Nav'
 import { Hero, About, Skills, Project, Contact, Footer } from './Components'
 import './App.css'
 
@@ -14,7 +14,7 @@ function App() {
       <Skills />
       <Project />
       <Contact />
-      <Footer/>
+      <Footer />
     </>
   )
 }
